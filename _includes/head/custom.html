@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="{{ '/assets/css/customheader.scss' | absolute_url }}">
 <div class="wrapper" style="text-align: right; line-height: 2em">
   
-<ul>
+<ul style="list-style: none;">
 {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
 {% for post in posts %}
   <li>
