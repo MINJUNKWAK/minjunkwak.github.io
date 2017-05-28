@@ -3,7 +3,7 @@ layout: single
 title: "Language Test"
 date: 2017-05-28
 categories: blog
-lang: en
+lang: English
 ref: languge
 ---
 
