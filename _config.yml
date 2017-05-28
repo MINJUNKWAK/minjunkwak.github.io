@@ -9,7 +9,9 @@
 locale                   : "en"
 title                    : "KWAK's blog"
 title_separator          : "-"
-name                     : "MINJUN KWAK"
+name                     :
+                            English: "MINJUN KWAK"
+                            Korean(한글): "곽민준"
 description              : "An amazing website."
 url                      : "https://minjunkwak.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
