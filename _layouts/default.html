@@ -10,7 +10,6 @@
 -->
 <html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
   <head>
-    {% include language.html %}
     {% include head.html %}
     {% include head/custom.html %}
   </head>
@@ -19,7 +18,7 @@
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
-
+    {% include language.html %}
     {{ content }}
 
     <div class="page__footer">
