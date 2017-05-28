@@ -7,9 +7,7 @@
 
 # Site Settings
 # locale                   : "en"
-title                    :
-                          English: "KWAK's blog"
-                          Korean(한글): "곽민준 블로그"
+title                    : "KWAK's blog"
 title_separator          : "-"
 name                     : "MINJUN KWAK"
 description              : "An amazing website."
@@ -79,9 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : 
-                    English: "MINJUN KWAK"
-                    Korean: "곽민준"
+  name             : "MINJUN KWAK"
   avatar           : "/assets/images/profile.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Majoring in Electric and Electronic Engineering in Korea University. A Sergeant in the U.S Army as a KATUSA."
   location         : "Republic of Korea"
