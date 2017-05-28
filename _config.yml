@@ -81,7 +81,7 @@ analytics:
 author:
   name             : 
                     English: "MINJUN KWAK"
-                    Korean(한글): "곽민준"
+                    Korean: "곽민준"
   avatar           : "/assets/images/profile.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Majoring in Electric and Electronic Engineering in Korea University. A Sergeant in the U.S Army as a KATUSA."
   location         : "Republic of Korea"
