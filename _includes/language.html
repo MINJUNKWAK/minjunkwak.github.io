@@ -1,6 +1,6 @@
 <div class="masthead">
-
-<div class="wrapper" style="text-align: right; line-height: 2em;">
+  <div class="masthead__inner-wrap">
+    <div class="wrapper" style="text-align: right; line-height: 2em;">
   
 <ul style="list-style: none;">
 {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
@@ -18,5 +18,6 @@
 {% endfor %}
 </ul>
 
-</div>
+    </div>
+  </div>
 </div>
