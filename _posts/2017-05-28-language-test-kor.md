@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Language Test"
+title: "언어 테스트"
 date: 2017-05-28
 categories: blog
 lang: kor
