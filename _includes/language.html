@@ -1,8 +1,4 @@
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="wrapper" style="text-align: right; line-height: 2em;">
-  
-<ul style="list-style: none;">
+
 {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
 {% for post in posts %}
   <li style=" display: inline;">
@@ -16,8 +12,3 @@
     <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
   </li>
 {% endfor %}
-</ul>
-
-    </div>
-  </div>
-</div>
