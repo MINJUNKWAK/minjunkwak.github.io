@@ -7,9 +7,7 @@
 
 # Site Settings
 # locale                   : "en"
-title                    : 
-                          en: "KWAK's blog"
-                          kor: "KWAK 블로그"
+title                    : "KWAK's blog"
 title_separator          : "-"
 name                     : "MINJUN KWAK"
 description              : "An amazing website."
