@@ -14,7 +14,7 @@ lang: Korean(한글)
 
 ## Interested in:
 
--Algorithm problem solving
+- Algorithm problem solving
 
 
 ---
