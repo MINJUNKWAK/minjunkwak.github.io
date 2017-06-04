@@ -3,6 +3,7 @@ permalink: /about/
 layout: single
 title: "About"
 lang: Korean(한글)
+ref: about
 ---
 
 ## I am..
