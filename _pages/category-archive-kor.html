@@ -1,10 +1,10 @@
 ---
 layout: archive
-permalink: /categories/
+permalink: /categories-kor/
 title: "Posts by Category"
 author_profile: true
 ref: category-archieve
-lang: English
+lang: Korean
 ---
 
 {% include group-by-array collection=site.posts field="categories" %}
@@ -13,7 +13,7 @@ lang: English
   {% assign posts = group_items[forloop.index0] %}
   <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
   {% for post in posts %}
-    {% if post.lang=='English' %}
+    {% if post.lang=='Korean' %}
       {% include archive-single.html %}
     {% endif %}
   {% endfor %}
