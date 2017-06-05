@@ -19,29 +19,29 @@
 
 
 
-<title>Google Code Jam - KWAK’s blog</title>
+<title>언어 테스트 - KWAK’s blog</title>
 
 
 
 
-<meta name="description" content="Competed in the Google Code Jam 2017. Couldn’t go further than Round 1.May be it was me, but solutions weren’t exactly friendly. Perhaps it is a good idea to write them by myself..">
+<meta name="description" content="이 글은 한글로 쓰였습니다.">
 
 
 
 
 <meta name="author" content="MINJUN KWAK">
 
-<meta property="og:locale" content="en">
+<meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="KWAK's blog">
-<meta property="og:title" content="Google Code Jam">
+<meta property="og:title" content="언어 테스트">
 
 
-  <link rel="canonical" href="http://localhost:4000/blog/codejam/">
-  <meta property="og:url" content="http://localhost:4000/blog/codejam/">
+  <link rel="canonical" href="http://localhost:8080/%EB%B8%94%EB%A1%9C%EA%B7%B8/language-test-kor/">
+  <meta property="og:url" content="http://localhost:8080/%EB%B8%94%EB%A1%9C%EA%B7%B8/language-test-kor/">
 
 
 
-  <meta property="og:description" content="Competed in the Google Code Jam 2017. Couldn’t go further than Round 1.May be it was me, but solutions weren’t exactly friendly. Perhaps it is a good idea to write them by myself..">
+  <meta property="og:description" content="이 글은 한글로 쓰였습니다.">
 
 
 
@@ -52,13 +52,11 @@
   
 
 
-
-  <meta property="og:image" content="http://localhost:4000/assets/images/codejam.jpg">
 
 
 
   <meta property="og:type" content="article">
-  <meta property="article:published_time" content="2017-05-25T00:00:00+00:00">
+  <meta property="article:published_time" content="2017-05-28T00:00:00+00:00">
 
 
 
@@ -72,7 +70,7 @@
       "@context" : "http://schema.org",
       "@type" : "Person",
       "name" : "MINJUN KWAK",
-      "url" : "http://localhost:4000",
+      "url" : "http://localhost:8080",
       "sameAs" : null
     }
   </script>
@@ -85,7 +83,7 @@
 <!-- end SEO -->
 
 
-<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="KWAK's blog Feed">
+<link href="http://localhost:8080/feed.xml" type="application/atom+xml" rel="alternate" title="KWAK's blog Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -97,7 +95,7 @@
 </script>
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+<link rel="stylesheet" href="http://localhost:8080/assets/css/main.css">
 
 <!--[if lte IE 9]>
   <style>
@@ -131,70 +129,46 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="http://localhost:4000/">KWAK's blog</a>
+        <a class="site-title" href="http://localhost:8080/">KWAK's blog</a>
         <ul class="visible-links">
           
             
-            <li class="masthead__menu-item"><a href="https://mmistakes.github.io/minimal-mistakes/about/">About</a></li>
+            <li class="masthead__menu-item"><a href="http://localhost:8080/about/">About</a></li>
           
             
-            <li class="masthead__menu-item"><a href="http://localhost:4000/year-archive/">Sample Posts</a></li>
+            <li class="masthead__menu-item"><a href="http://localhost:8080/collection-archive/">Sample Collections</a></li>
           
             
-            <li class="masthead__menu-item"><a href="http://localhost:4000/collection-archive/">Sample Collections</a></li>
+            <li class="masthead__menu-item"><a href="http://localhost:8080/categories/">Categories</a></li>
           
             
-            <li class="masthead__menu-item"><a href="http://localhost:4000/sitemap/">Sitemap</a></li>
-          
-            
-            <li class="masthead__menu-item"><a href="http://localhost:4000/blog/">Blogs</a></li>
+            <li class="masthead__menu-item"><a href="http://localhost:8080/tags/">Tags</a></li>
           
         </ul>
         <button><div class="navicon"></div></button>
+        <div class="lang">
+          
+
+
+  <li style=" display: inline;">
+    <a href="/blog/language-test/" class="English">English</a>
+  </li>
+
+  <li style=" display: inline;">
+    <a href="/%EB%B8%94%EB%A1%9C%EA%B7%B8/language-test-kor/" class="Korean(한글)">Korean(한글)</a>
+  </li>
+
+
+
+
+
+        </div>
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
   </div>
 </div>
     
-<div class="wrapper" style="text-align: right; line-height: 2em;">
-  
-<ul style="list-style: none;">
-
-
-  <li style=" display: inline;">
-    <a href="/blog/codejam/" class="en">en</a>
-  </li>
-
-  <li style=" display: inline;">
-    <a href="/blog/codejam.kor/" class="kor">kor</a>
-  </li>
-
-
-
-
-</ul>
-
-</div>
-    
-  
-
-
-
-
-
-
-
-<div class="page__hero"
-  style=" "
->
-  
-    <img src="http://localhost:4000/assets/images/codejam.jpg" alt="Google Code Jam" class="page__hero-image">
-  
-  
-</div>
-
-
 
 
 
@@ -208,7 +182,7 @@
   
     <div class="author__avatar">
       
-        <img src="http://localhost:4000/assets/images/profile.png" class="author__avatar" alt="MINJUN KWAK" itemprop="image">
+        <img src="http://localhost:8080/assets/images/profile.png" class="author__avatar" alt="MINJUN KWAK" itemprop="image">
       
     </div>
   
@@ -216,19 +190,21 @@
   <div class="author__content">
     <h3 class="author__name" itemprop="name">MINJUN KWAK</h3>
     
+      <p class="author__bio" itemprop="description">
+        Majoring in Electric and Electronic Engineering in Korea University. A Sergeant in the U.S Army as a KATUSA.
+      </p>
+    
   </div>
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       
-
-      
-        <li>
-          <a href="http://minjunkwak.github.io" itemprop="url">
-            <i class="fa fa-fw fa-chain" aria-hidden="true"></i> Website
-          </a>
+        <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
+          <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <span itemprop="name">Republic of Korea</span>
         </li>
+      
+
       
 
       
@@ -265,7 +241,19 @@
       
 
       
+        <li>
+          <a href="https://github.com/Hanuu" itemprop="sameAs">
+            <i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub
+          </a>
+        </li>
+      
 
+      
+        <li>
+          <a href="https://www.stackoverflow.com/users/minjun-kwak/8057612" itemprop="sameAs">
+            <i class="fa fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow
+          </a>
+        </li>
       
 
       
@@ -306,15 +294,15 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Google Code Jam">
-    <meta itemprop="description" content="Competed in the Google Code Jam 2017. Couldn’t go further than Round 1.May be it was me, but solutions weren’t exactly friendly. Perhaps it is a good idea to write them by myself..">
-    <meta itemprop="datePublished" content="May 25, 2017">
+    <meta itemprop="headline" content="언어 테스트">
+    <meta itemprop="description" content="이 글은 한글로 쓰였습니다.">
+    <meta itemprop="datePublished" content="May 28, 2017">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 class="page__title" itemprop="headline">Google Code Jam
+          <h1 class="page__title" itemprop="headline">언어 테스트
 </h1>
           
             <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
@@ -329,8 +317,7 @@
       
 
       <section class="page__content" itemprop="text">
-        <p>Competed in the Google Code Jam 2017. Couldn’t go further than Round 1.
-May be it was me, but solutions weren’t exactly friendly. Perhaps it is a good idea to write them by myself..</p>
+        <p>이 글은 한글로 쓰였습니다.</p>
 
         
       </section>
@@ -353,40 +340,38 @@ May be it was me, but solutions weren’t exactly friendly. Perhaps it is a good
     
       
       
-      <a href="http://localhost:4000/categories/#blog" class="page__taxonomy-item" rel="tag">blog</a>
+      <a href="http://localhost:8080/categories/#%EB%B8%94%EB%A1%9C%EA%B7%B8" class="page__taxonomy-item" rel="tag">블로그</a>
     
     </span>
   </p>
 
 
         
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="2017-05-25T00:00:00+00:00">May 25, 2017</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="2017-05-28T00:00:00+00:00">May 28, 2017</time></p>
         
       </footer>
 
       <section class="page__share">
   
-    <h4 class="page__share-title">Share on</h4>
-  
 
-  <a href="https://twitter.com/intent/tweet?text=Google Code Jam http://localhost:4000/blog/codejam/" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=언어 테스트 http://localhost:8080/%EB%B8%94%EB%A1%9C%EA%B7%B8/language-test-kor/" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/blog/codejam/" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:8080/%EB%B8%94%EB%A1%9C%EA%B7%B8/language-test-kor/" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://plus.google.com/share?url=http://localhost:4000/blog/codejam/" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
+  <a href="https://plus.google.com/share?url=http://localhost:8080/%EB%B8%94%EB%A1%9C%EA%B7%B8/language-test-kor/" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/blog/codejam/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:8080/%EB%B8%94%EB%A1%9C%EA%B7%B8/language-test-kor/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
 
       
   <nav class="pagination">
     
-      <a href="http://localhost:4000/blog/codejam.kor/" class="pagination--pager" title="구글 코드잼 2017
+      <a href="http://localhost:8080/algorithm/codejam/" class="pagination--pager" title="Google Code Jam
 ">Previous</a>
     
     
-      <a href="http://localhost:4000/blog/language-test-kor/" class="pagination--pager" title="언어 테스트
+      <a href="http://localhost:8080/blog/language-test/" class="pagination--pager" title="Language Test
 ">Next</a>
     
   </nav>
@@ -397,7 +382,7 @@ May be it was me, but solutions weren’t exactly friendly. Perhaps it is a good
       <div class="page__comments">
   
   
-    <h4 class="page__comments-title">Leave a Comment</h4>
+    <h4 class="page__comments-title">Comments</h4>
     <section id="disqus_thread"></section>
   
 </div>
@@ -418,15 +403,13 @@ May be it was me, but solutions weren’t exactly friendly. Perhaps it is a good
         <div class="page__footer-follow">
   <ul class="social-icons">
     
-      <li><strong>Follow:</strong></li>
-    
     
     
     
       <li><a href="http://github.com/Hanuu"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
-    <li><a href="http://localhost:4000/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="http://localhost:8080/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -434,7 +417,7 @@ May be it was me, but solutions weren’t exactly friendly. Perhaps it is a good
       </footer>
     </div>
 
-    <script src="http://localhost:4000/assets/js/main.min.js"></script>
+    <script src="http://localhost:8080/assets/js/main.min.js"></script>
 
 
 
