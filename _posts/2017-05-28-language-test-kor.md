@@ -2,7 +2,7 @@
 layout: single
 title: "언어 테스트"
 date: 2017-05-28
-categories: 블로그
+categories: blog
 lang: Korean
 ref: languge
 ---
