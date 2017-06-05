@@ -2,7 +2,7 @@
 layout: single
 title: "About"
 author: MINJUN KWAK
-lang: Korean(한글)
+lang: Korean
 ref: about
 ---
 
