@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "Cpp Dividing int in Half"
+title: "Cpp Dividing int to float"
 date: 2017-06-06
 categories: algorithm
 comments: true
 author: MINJUN KWAK
 lang: English
-ref: dividinginhalf
+ref: dividingint
 tags:
   - cpp
   - algorithm
@@ -57,7 +57,7 @@ What about the caes when the number is below the mean value?
 ```cpp
 (a+b)/2 = 5
 ```
-Obviously, it rounds thenumber down as well.
+Obviously, it rounds the number down as well.
 
 
 ```cpp
@@ -71,7 +71,7 @@ int main(){
     printf("%d",(a+b)/8);
 }
 ```
-With the calculation being 2.625, will the result printed out as 3?
+With the calculation being 2.625, will the result be printed out as 3?
 
 ```cpp
 (a+b)/2 = 2
@@ -104,8 +104,8 @@ Surprisingly, the numbers were rounded up.
 
 OR, May be they weren't rounding up nor rounding down the numbers, they were simply discarding decimals.
 
-To be exact, let's look at the 'C++ International Stadard 2013', Section 4.9
+To be exact, let's take a look at the 'C++ International Stadard 2013', Section 4.9
 
 <img src="/assets/images/dividinghalf.png">
 
-Unlike my first assumption, it discards the decimals when converting float to int!
+Unlike my first assumption, it discards the decimals when converting int to float!
