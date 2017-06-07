@@ -31,7 +31,7 @@ tags:
 ```
 Σ |X-Xi|
 ```
-위식을 그래프로 한번 나타내볼까요
+위 식을 그래프로 한번 나타내볼까요
 
 <img src="/assets/images/absolutegraph.png">
 
