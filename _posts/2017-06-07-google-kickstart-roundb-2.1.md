@@ -14,7 +14,7 @@ tags:
   - algorithm
 ---
 
-[Google Kickstart Round B]({{https://code.google.com/codejam/contest/11304486/dashboard#s=p1}})
+[Google Kickstart Round B]({{https://code.google.com/codejam/contest/11304486/dashboard#s=p1}})  
 
 If we were to use the 'brute-force' in this problem, we would be inserting numbers from -1000.00 to 1000.00 with 0.01 interval. 
 
@@ -28,7 +28,7 @@ Let us analysis the problem further more, if we were to put -1000.00 to 1000.00,
 Σ max(|X-Xi|, |Y-Yi|)*Wi
 
 ```
-To save more trouble, let's look at the ```x``` first, under the assumption ```y``` is a consatant number.
+To save more trouble, let's look at the ```x``` first, let us forget about the ```y```.
 ```
 Σ |X-Xi|
 ```
