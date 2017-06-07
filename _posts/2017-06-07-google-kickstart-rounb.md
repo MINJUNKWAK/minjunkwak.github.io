@@ -46,7 +46,7 @@ How many times should we repeat the process? Since considered our value is corre
 
 Every time we complete one cycle of [Trenary Search], the interval is reduced by 2/3. If we repeat the process 100 times, ```2000*(2/3)^100=4.191930E-15``` it seems more than reasonable.
 
-The time complexity for using [Trenary Search] is ```O(n*(logn)^2)
+The time complexity for using [Trenary Search] is ```O(n*(logn)^2)```
 
 Here's the full code in cpp
 
