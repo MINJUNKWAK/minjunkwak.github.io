@@ -9,6 +9,8 @@ lang: English
 ref: googlekickstartroundbproblemb
 tags:
   - cpp
+  - kickstart
+  - codejam
   - algorithm
 ---
 
@@ -32,7 +34,7 @@ To save more trouble, let's look at the ```x``` first, under the assumption ```y
 ```
 Here's what the graph is going to look like
 
-<img src="assets/images/absolutegraph.png">
+<img src="/assets/images/absolutegraph.png">
 
 It is a convex graph with one minimum value.
 
