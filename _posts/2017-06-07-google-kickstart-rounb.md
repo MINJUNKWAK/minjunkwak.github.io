@@ -38,7 +38,7 @@ Here's what the graph is going to look like
 
 It is a convex graph with one minimum value.
 
-The question now is, how to find that minimum value with least effort?
+The question now is, how to find that minimum value with the least effort?
 
 May I introduce you the [Trenary Search]! The mighty solution to finding minimum/maximum value when graph is convex or concave.
 
