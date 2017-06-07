@@ -40,13 +40,13 @@ It is a convex graph with one minimum value.
 
 The question now is, how to find that minimum value with the least effort?
 
-May I introduce you the [Trenary Search]! The mighty solution to finding minimum/maximum value when graph is convex or concave.
+May I introduce you the [Ternary Search]! The mighty solution to finding minimum/maximum value when graph is convex or concave.
 
 How many times should we repeat the process? Since considered our value is correct if it is within an absolute or relative error of ```10^-6``` of the correct answer, 100 times would be good.
 
-Every time we complete one cycle of [Trenary Search], the interval is reduced by 2/3. If we repeat the process 100 times, ```2000*(2/3)^100=4.191930E-15``` it seems more than reasonable.
+Every time we complete one cycle of [Ternary Search], the interval is reduced by 2/3. If we repeat the process 100 times, ```2000*(2/3)^100=4.191930E-15``` it seems more than reasonable.
 
-The time complexity for using [Trenary Search] is ```O(n*(logn)^2)```
+The time complexity for using [Ternary Search] is ```O(n*(logn)^2)```
 
 Here's the full code in cpp
 

@@ -10,6 +10,7 @@ ref: dividingint
 tags:
   - cpp
   - algorithm
+  - algorithm technique
 ---
 
 ```cpp
