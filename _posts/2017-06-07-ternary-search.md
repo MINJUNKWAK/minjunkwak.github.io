@@ -30,7 +30,7 @@ Now between the two blue dots, I will replace the higher one with the red dot.
 
 Then, I will repeat the process with two red dots that are closer than before.
 
-<img src="assets/images/finaldots.png">
+<img src="/assets/images/finaldots.png">
 
 If I repeat this process enough, it will eventually get closer to the minium/maximum value that I was looking for.
 
@@ -45,4 +45,4 @@ So n= times that require to repeat the process,
 ```
 
 Here's the example of using Ternary Search in a real problem.
-[Google Kickstart Round B Problem 2]({{"/algorithm/google-kickstart-rounb/"}})
+[Google Kickstart Round B Problem 2]({{"/algorithm/google-kickstart-roundb-2/"}})
