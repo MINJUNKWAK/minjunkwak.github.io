@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Google Kickstart Round B Problem B Solution"
+title: "Google Kickstart 2017 Round B Problem B Solution"
 date: 2017-06-07
 categories: algorithm
 comments: true
