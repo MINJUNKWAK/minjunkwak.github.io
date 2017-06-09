@@ -62,6 +62,8 @@ So the total contribution of Kth element to the answer is ```(Kth element)*(2^(k
 All we have to do is add from k=1 to k=N. With the time complexity being ```O(N)```
 
 Here's my python code to the problem.
+
+Click [Github]({{https://github.com/Hanuu/google_kickstart_solution/blob/master/KickStart/2017RoundB/1.py}}) to view the solution in Github. 
 ```python
 
 f= open("1in.txt").read().split("\n")
