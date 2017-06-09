@@ -50,6 +50,8 @@ The time complexity for using [Ternary Search]({{"/algorithm/ternary-search/"}})
 
 Here's the full code in cpp
 
+Click [Github]({{https://github.com/Hanuu/google_kickstart_solution/blob/master/KickStart/2017RoundB/2.6.cpp}}) to view the code in github.
+
 ```cpp
 #include <iostream>
 #include <cmath>

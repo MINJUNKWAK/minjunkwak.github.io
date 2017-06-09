@@ -49,6 +49,8 @@ tags:
 
 아래는 C++로 구현한 코드입니다.
 
+[Github]({{https://github.com/Hanuu/google_kickstart_solution/blob/master/KickStart/2017RoundB/2.6.cpp}})를 클릭하시면 깃허브로 코드를 보실수있습니다.
+
 ```cpp
 #include <iostream>
 #include <cmath>
