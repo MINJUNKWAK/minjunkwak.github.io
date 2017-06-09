@@ -8,7 +8,7 @@ author: MINJUN KWAK
 lang: English
 ref: googlekickstartroundbproblema
 tags:
-  - cpp
+  - python
   - kickstart
   - codejam
   - algorithm
