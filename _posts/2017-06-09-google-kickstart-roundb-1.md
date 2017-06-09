@@ -47,3 +47,43 @@ I am going to count how many times each element was regarded as largest, or smal
 |-------|-------|--------|---------|---------|
 | smallest | 8 | 4 | 2 | 1 |
 | largest | 1 | 2 | 4 | 8 |
+| largest-smallest| -7 | -2 | 2 | 7 |
+
+N being the number of elements,
+
+First element can only be the largest 1 time
+and it can only be the smallest elements 2^n times
+
+The Kth element can only be the largest 2^(k-1) times
+and it can only be the smallest elements 2^(n-k+1) times.
+
+So the total contribution of Kth elements to the answer is ```(Kth element)*(2^(k-1)-2^(n-k+1)```
+
+All we have to do is add from k=1 to k=N. With the time complexity being ```O(N)```
+
+Here's my python code to the problem.
+```python
+
+f= open("1in.txt").read().split("\n")
+writeF=open("1out.txt","w")
+
+
+def gettotal(N,K):
+    total=0
+    for i in range(0,N):
+        total+=(-2**(N-i-1)+2**(i))*int(K[i])
+    return total%(10**9+7)
+    
+number=1
+for i in range(1,2*int(f[0])+2,2):
+    N=int(f[i])
+    K=f[i+1].split(" ")
+    
+    answer=gettotal(N,K)
+    print("Case #%d: %d" %(number,answer))
+    
+    writeF.write("Case #%d: %d\n" %(number,answer))
+    number+=1
+f.close()
+writeF.close()
+```
