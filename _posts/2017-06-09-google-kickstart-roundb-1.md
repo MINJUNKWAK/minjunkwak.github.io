@@ -57,7 +57,7 @@ and it can only be the smallest elements 2^n times
 The Kth element can only be the largest 2^(k-1) times
 and it can only be the smallest elements 2^(n-k+1) times.
 
-So the total contribution of Kth elements to the answer is ```(Kth element)*(2^(k-1)-2^(n-k+1)```
+So the total contribution of Kth element to the answer is ```(Kth element)*(2^(k-1)-2^(n-k+1)```
 
 All we have to do is add from k=1 to k=N. With the time complexity being ```O(N)```
 
