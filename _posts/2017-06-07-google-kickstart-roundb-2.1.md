@@ -66,7 +66,7 @@ double sum(double x,double y,int n){
     return ret;
 }
 
-//setting y value
+//setting y value using ternary search
 double valueof(double x,int n){
     double hi=1000;
     double lo=-1000;
@@ -81,7 +81,7 @@ double valueof(double x,int n){
     return sum(x,lo,n);
 }
 
-//setting x value first
+//setting x value first using ternary search
 double sol(int n){
     double hi=1000;
     double lo=-1000;
