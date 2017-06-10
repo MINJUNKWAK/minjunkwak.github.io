@@ -16,7 +16,7 @@ tags:
 
 [Google Kickstart Round B]({{https://code.google.com/codejam/contest/11304486/dashboard#s=p0}})  
 
-If I were to find every subset and find its maximum, minimum value, and then subtract those two value, and every subsets' values again, the time complexity would be ```2^n```.
+If I were to find every subset and find its maximum, minimum value, and then subtract those two value, and every subsets' values again, the time complexity would be ```O(2^n)```.
 
 For small test case, this might work. However, if we want to solve the large test case as well, we have to twist the view point of the problem little bit.
 
