@@ -45,6 +45,9 @@ Surpringly, in my opinion, the small test case in [Third Problem]({{https://code
 Maybe I should have made a stragetic move to solve the small test case in third problem.
 
 
+Since only problem I solved during the contest was Problem A, I scored 23/100 and ranked 394/940.
+
+
 Here are the solutions/analysis of [Google Kickstart Round B]({{https://code.google.com/codejam/contest/11304486/dashboard#s=p0}}):
 
 [Problem A]({{https://minjunkwak.github.io/algorithm/google-kickstart-roundb-1/}})
