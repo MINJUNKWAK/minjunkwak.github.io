@@ -5,7 +5,7 @@ date: 2017-06-10
 categories: 알고리즘
 comments: true
 author: MINJUN KWAK
-lang: English
+lang: Korean
 ref: googlekickstartroundbproblema
 tags:
   - python
@@ -65,7 +65,7 @@ k번째 원소가 답에 미치는 영향은 ```(K번째 원소)*(2^(k-1)-2^(N-k
 
 여기 아래에 파이썬으로 쓰인 제 답안이 있습니다.
 
-[Github]({{https://github.com/Hanuu/google_kickstart_solution/blob/master/KickStart/2017RoundB/1.py}}) 를 클릭하시면 깃허브로 제 답안을 볼수있습니다.
+[Github]({{https://github.com/Hanuu/google_kickstart_solution/blob/master/KickStart/2017RoundB/1.py}}) 를 클릭하시면 깃허브로 제 답안을 볼 수있습니다.
 
 ```python
 
