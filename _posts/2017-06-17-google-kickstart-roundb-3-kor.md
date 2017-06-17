@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "구글 Kickstart 2017 Round B Problem C Solution"
+title: "구글 Kickstart 2017 Round B Problem C 해설"
 date: 2017-06-17
 categories: 알고리즘
 comments: true
