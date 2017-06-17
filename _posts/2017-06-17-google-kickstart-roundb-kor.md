@@ -43,6 +43,10 @@ tags:
 
 어쩌면 세번째 문제를 먼저 푸는 전략적인 선택을 했어야 했나봅니다.
 
+
+결국 제한 시간안에 한 문제 밖에 풀지 못했기 때문에 100점 만점에 23점, 940명 중에 394등으로 이번 라운드를 마쳤습니다.
+
+
 여기 아래에 저의 [Google Kickstart Round B]({{https://code.google.com/codejam/contest/11304486/dashboard#s=p0}}) 답안이 있습니다:
 
 [Problem A]({{https://minjunkwak.github.io/algorithm/google-kickstart-roundb-1/}})
