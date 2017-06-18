@@ -12,7 +12,7 @@ tags:
   - salar de uyunni
 ---
 
-<img src="assets/images/salardeuyunni.png">
+<img src="/assets/images/salardeuyunni.png">
 
 Three years ago, I was at Salar de Uyunni, Bolivia South America.
 
