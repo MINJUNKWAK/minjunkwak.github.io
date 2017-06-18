@@ -13,7 +13,7 @@ tags:
   - algorithm
 ---
 
-<h2> [Google Kickstart Round B]({{https://code.google.com/codejam/contest/11304486/dashboard#s=p0}}) </h2>
+[Google Kickstart Round B]({{https://code.google.com/codejam/contest/11304486/dashboard#s=p0}})
 
 [Google Kickstart Round B]({{https://code.google.com/codejam/contest/11304486/dashboard#s=p0}})에 참가한지 한달이 지났군요.
 막판에 전역일에 가까워지면서 일이 좀 바빠져서 해설을 작성할 시간이 없었는데 이제 슬슬 말년이라 좀 숨통이 틔이는군요.
