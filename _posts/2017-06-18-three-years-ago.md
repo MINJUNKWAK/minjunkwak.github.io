@@ -1,11 +1,12 @@
 ---
 layout: single
 title: "Three years ago..."
-date: 2017-05-24
+date: 2017-06-18
 categories: blog
 comments: true
 author: MINJUN KWAK
 lang: English
+ref: salardeuyunni
 tags:
   - travel
   - blog
