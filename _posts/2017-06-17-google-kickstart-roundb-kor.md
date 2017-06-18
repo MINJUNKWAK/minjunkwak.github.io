@@ -13,7 +13,7 @@ tags:
   - algorithm
 ---
 
-<h2>[Google Kickstart Round B]({{https://code.google.com/codejam/contest/11304486/dashboard#s=p0}})</h1>
+<h2>[Google Kickstart Round B]({{https://code.google.com/codejam/contest/11304486/dashboard#s=p0}})</h2>
 
 [Google Kickstart Round B]({{https://code.google.com/codejam/contest/11304486/dashboard#s=p0}})에 참가한지 한달이 지났군요.
 막판에 전역일에 가까워지면서 일이 좀 바빠져서 해설을 작성할 시간이 없었는데 이제 슬슬 말년이라 좀 숨통이 틔이는군요.
@@ -30,7 +30,7 @@ tags:
 라운드가 끝난 후 공부를 더 한 결과 [삼분 검색(Ternary Search)]({{"/algorithm/ternary-search/"}})이란 알고리즘을 알게 되었고 여기에 적용하게 되었습니다.
 경험은 우리가 실수에게 주는 또 다른 이름이다. 라는 말이 기억나네요. 다음에 비슷한 문제가 나오면 맞출수있기를 바랍니다.
 
-<h3>Problem C. Christmas Tree</h3>
+<h2>Problem C. Christmas Tree</h2>
 제한 시간 때문에 [세번째 문제]({{https://code.google.com/codejam/contest/dashboard?c=11304486#s=p2}})는 제대로 풀지 못했습니다.
 문제를 제대로 읽어 봤을때 [세번째 문제]({{https://code.google.com/codejam/contest/dashboard?c=11304486#s=p2}})의 Small Case가 [두번째 문제]({{https://code.google.com/codejam/contest/dashboard?c=11304486#s=p2}})의 Small Case 보다 쉬워보였습니다.
 어쩌면 세번째 문제를 먼저 푸는 전략적인 선택을 했어야 했나봅니다.
