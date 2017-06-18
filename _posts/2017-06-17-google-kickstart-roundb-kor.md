@@ -41,7 +41,7 @@ tags:
 
 여기 아래에 저의 [Google Kickstart Round B]({{https://code.google.com/codejam/contest/11304486/dashboard#s=p0}}) 답안이 있습니다:
 
-<h6>[Problem A. Math Encoder]({{https://minjunkwak.github.io/algorithm/google-kickstart-roundb-1/}})</h6>
-<h6>[Problem B. Center]({{https://minjunkwak.github.io/algorithm/google-kickstart-roundb-2/}})</h6>
-<h6>[Problem C. Christmas Tree]({{https://minjunkwak.github.io/algorithm/google-kickstart-roundb-3/}})</h6>
+* [Problem A. Math Encoder]({{https://minjunkwak.github.io/algorithm/google-kickstart-roundb-1/}})
+* [Problem B. Center]({{https://minjunkwak.github.io/algorithm/google-kickstart-roundb-2/}})
+* [Problem C. Christmas Tree]({{https://minjunkwak.github.io/algorithm/google-kickstart-roundb-3/}})
 
