@@ -4,9 +4,6 @@ title: "Three years ago..."
 date: 2017-05-24
 categories: blog
 comments: true
-header:
-  image: assets/images/salardeuyunni.png
-  caption: photo by minjunkwak
 author: MINJUN KWAK
 lang: English
 tags:
@@ -14,6 +11,8 @@ tags:
   - blog
   - salar de uyunni
 ---
+
+<img src="assets/images/salardeuyunni.png">
 
 Three years ago, I was at Salar de Uyunni, Bolivia South America.
 
