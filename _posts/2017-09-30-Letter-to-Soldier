@@ -3,8 +3,13 @@ layout: single
 title: "Letter to Soldier"
 date: 2017-09-30
 categories: blog
-lang: English
-ref: languge
+comments: true
+author: MINJUN KWAK
+lang: Korean
+ref: lettertosoldier
+tags:
+  - lettertosoldier
+  - python
 ---
 
 I've been working on a little project that sends letters automatically to soldiers in ROK Army Training Academy.
