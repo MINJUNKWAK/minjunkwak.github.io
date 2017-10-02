@@ -2,10 +2,16 @@
 layout: single
 title: "Letter to Soldier"
 date: 2017-09-30
-categories: blog
+categories: 블로그
+comments: true
+author: MINJUN KWAK
 lang: Korean
-ref: languge
+ref: lettertosoldier
+tags:
+  - lettertosoldier
+  - python
 ---
+
 
 요즘 논산훈련소에 자동으로 편지를 보내주는 프로그램을 짜고있습니다.
 
