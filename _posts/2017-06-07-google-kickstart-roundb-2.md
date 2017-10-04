@@ -14,7 +14,7 @@ tags:
   - algorithm
 ---
 
-[Google Kickstart Round B]({{https://code.google.com/codejam/contest/11304486/dashboard#s=p1}})  
+[Google Kickstart Round B]({{"https://code.google.com/codejam/contest/11304486/dashboard#s=p1"}})  
 
 If we were to use the 'brute-force' in this problem, we would be inserting numbers from -1000.00 to 1000.00 with 0.01 interval. 
 
@@ -50,7 +50,7 @@ The time complexity for using [Ternary Search]({{"/algorithm/ternary-search/"}})
 
 Here's the full code in cpp
 
-Click [Github]({{https://github.com/Hanuu/google_kickstart_solution/blob/master/KickStart/2017RoundB/2.6.cpp}}) to view the code in github.
+Click [Github]({{"https://github.com/Hanuu/google_kickstart_solution/blob/master/KickStart/2017RoundB/2.6.cpp"}}) to view the code in github.
 
 ```cpp
 #include <iostream>
