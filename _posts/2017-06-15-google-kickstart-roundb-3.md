@@ -14,7 +14,7 @@ tags:
   - algorithm
 ---
 
-[Google Kickstart Round B]({{https://code.google.com/codejam/contest/11304486/dashboard#s=p2}})  
+[Google Kickstart Round B]({{"https://code.google.com/codejam/contest/11304486/dashboard#s=p2"}})  
 
 Let's try to solve the Small Case first, being K=1, we only have to find one christmas tree.
 
@@ -76,7 +76,7 @@ To save more problems, we can use ```the number of element in tree = heightoftre
 
 The comlexity of this solution of ```O(n^2)``` n= N*M = number of cells.
 
-Click [Github]({{https://github.com/Hanuu/google_kickstart_solution/blob/master/KickStart/2017RoundB/3.1.cpp}}) to view the solution in Github. 
+Click [Github]({{"https://github.com/Hanuu/google_kickstart_solution/blob/master/KickStart/2017RoundB/3.1.cpp"}}) to view the solution in Github. 
 
 Here's my cpp version of solution.
 
