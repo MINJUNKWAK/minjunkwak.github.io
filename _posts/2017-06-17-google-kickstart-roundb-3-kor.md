@@ -14,7 +14,7 @@ tags:
   - algorithm
 ---
 
-[Google Kickstart Round B]({{https://code.google.com/codejam/contest/11304486/dashboard#s=p2}})  
+[Google Kickstart Round B]({{"https://code.google.com/codejam/contest/11304486/dashboard#s=p2"}})  
 
 일단 Small Case부터 한번 풀어보기 시작할까요, K=1인 경우, 즉 크리스마스 트리가 단 한개일 경우입니다.
 
@@ -82,7 +82,7 @@ TestCase의 경우는
 
 이럴경우 시간 복잡도는 ```O(n^2)```가 됩니다.  n= N*M = 원소의 갯수.
 
-[Github]({{https://github.com/Hanuu/google_kickstart_solution/blob/master/KickStart/2017RoundB/3.1.cpp}}) 를 틀릭하시면 깃허브로 제 답안을 볼 수 있습니다.. 
+[Github]({{"https://github.com/Hanuu/google_kickstart_solution/blob/master/KickStart/2017RoundB/3.1.cpp"}}) 를 틀릭하시면 깃허브로 제 답안을 볼 수 있습니다.. 
 
 Here's my cpp version of solution.
 
