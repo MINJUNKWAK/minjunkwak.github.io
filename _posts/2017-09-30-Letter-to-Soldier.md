@@ -28,4 +28,4 @@ However, as the time goes, I think more soldiers could benefit from this project
 
 I've been working on it for almost 3 weeks now, and it's almost done. Hopefully this could make some of the young men smile during the challenge of a life time.
 
-[Letter to Soldier]({{https://github.com/Hanuu/lettertosoldier}}) This is the link to the project that I've been working on.
+[Letter to Soldier]({{"https://github.com/Hanuu/lettertosoldier"}}) This is the link to the project that I've been working on.
