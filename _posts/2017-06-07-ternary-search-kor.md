@@ -14,7 +14,7 @@ tags:
   - 알고리즘 테크닉
 ---
 
-일단 [위키피디아]({{https://en.wikipedia.org/wiki/Ternary_search}})에서 삼분검색의 정의에 대하여 살펴보죠.
+일단 [위키피디아]({{"https://en.wikipedia.org/wiki/Ternary_search"}})에서 삼분검색의 정의에 대하여 살펴보죠.
 
 *A ternary search algorithm is a technique in computer science for finding the minimum or maximum of a unimodal function. A ternary search determines either that the minimum or maximum cannot be in the first third of the domain or that it cannot be in the last third of the domain, then repeats on the remaining two-thirds.*
 번역하자면
