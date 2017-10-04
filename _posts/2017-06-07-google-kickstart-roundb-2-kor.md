@@ -14,7 +14,7 @@ tags:
   - algorithm
 ---
 
-[Google Kickstart Round B]({{https://code.google.com/codejam/contest/11304486/dashboard#s=p1}})
+[Google Kickstart Round B]({{"https://code.google.com/codejam/contest/11304486/dashboard#s=p1"}})
 
 완전탐색을 사용하여 문제를 풀수도 있겠지만 -1000.00 부터 1000.00까지 모든 숫자들을 0.01간격으로 집어넣는다는것은 자살행위로 보입니다.
 
@@ -49,7 +49,7 @@ tags:
 
 아래는 C++로 구현한 코드입니다.
 
-[Github]({{https://github.com/Hanuu/google_kickstart_solution/blob/master/KickStart/2017RoundB/2.6.cpp}})를 클릭하시면 깃허브로 코드를 보실수있습니다.
+[Github]({{"https://github.com/Hanuu/google_kickstart_solution/blob/master/KickStart/2017RoundB/2.6.cpp"}})를 클릭하시면 깃허브로 코드를 보실수있습니다.
 
 ```cpp
 #include <iostream>
