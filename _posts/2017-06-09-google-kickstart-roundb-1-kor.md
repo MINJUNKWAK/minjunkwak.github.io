@@ -14,7 +14,7 @@ tags:
   - algorithm
 ---
 
-[Google Kickstart Round B]({{https://code.google.com/codejam/contest/11304486/dashboard#s=p0}}) 
+[Google Kickstart Round B]({{"https://code.google.com/codejam/contest/11304486/dashboard#s=p0"}}) 
 
 주어진 집합에 대하여 모든 부분집합을 찾고, 거기에 해당하는 최소값과 최댓값을 찾은 후, 그 차이를 모두 더한다면 시간 복잡도는 ```O(2^n)```이 됩니다.
 
@@ -65,7 +65,7 @@ k번째 원소가 답에 미치는 영향은 ```(K번째 원소)*(2^(k-1)-2^(N-k
 
 여기 아래에 파이썬으로 쓰인 제 답안이 있습니다.
 
-[Github]({{https://github.com/Hanuu/google_kickstart_solution/blob/master/KickStart/2017RoundB/1.py}}) 를 클릭하시면 깃허브로 제 답안을 볼 수있습니다.
+[Github]({{"https://github.com/Hanuu/google_kickstart_solution/blob/master/KickStart/2017RoundB/1.py"}}) 를 클릭하시면 깃허브로 제 답안을 볼 수있습니다.
 
 ```python
 
