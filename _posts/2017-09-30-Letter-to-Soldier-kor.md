@@ -52,4 +52,4 @@ tags:
 부디 제가 만든 이 프로그램으로 고난의 시기를 보내고 있는 청춘들에게 한번쯤 웃을 수 있는 계기는 만들어줬으면 좋겠습니다.
 
 
-[Letter to Soldier]({{https://github.com/Hanuu/lettertosoldier}}) 지금 현재 수정중인 코드를 볼 수 있는 깃입니다.
+[Letter to Soldier]({{"https://github.com/Hanuu/lettertosoldier"}}) 지금 현재 수정중인 코드를 볼 수 있는 깃입니다.
