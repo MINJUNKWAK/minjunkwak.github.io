@@ -14,7 +14,7 @@ tags:
   - algorithm
 ---
 
-[Google Kickstart Round B]({{https://code.google.com/codejam/contest/11304486/dashboard#s=p0}})  
+[Google Kickstart Round B]({{"https://code.google.com/codejam/contest/11304486/dashboard#s=p0"}})  
 
 If I were to find every subset and find its maximum, minimum value, and then subtract those two value, and every subsets' values again, the time complexity would be ```O(2^n)```.
 
@@ -63,7 +63,7 @@ All we have to do is add from k=1 to k=N. With the time complexity being ```O(N)
 
 Here's my python code to the problem.
 
-Click [Github]({{https://github.com/Hanuu/google_kickstart_solution/blob/master/KickStart/2017RoundB/1.py}}) to view the solution in Github. 
+Click [Github]({{"https://github.com/Hanuu/google_kickstart_solution/blob/master/KickStart/2017RoundB/1.py"}}) to view the solution in Github. 
 ```python
 
 f= open("1in.txt").read().split("\n")
