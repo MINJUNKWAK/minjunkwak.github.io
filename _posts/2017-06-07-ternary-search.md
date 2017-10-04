@@ -12,7 +12,7 @@ tags:
   - algorithm
 ---
 
-Here's the definition of Ternary Search in [Wikipedia]({{https://en.wikipedia.org/wiki/Ternary_search}})
+Here's the definition of Ternary Search in [Wikipedia]({{"https://en.wikipedia.org/wiki/Ternary_search"}})
 
 *A ternary search algorithm is a technique in computer science for finding the minimum or maximum of a unimodal function. A ternary search determines either that the minimum or maximum cannot be in the first third of the domain or that it cannot be in the last third of the domain, then repeats on the remaining two-thirds.*
 
