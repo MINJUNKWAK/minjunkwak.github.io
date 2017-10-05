@@ -15,6 +15,8 @@ tags:
 
 [Google Kickstart Round F]({{"https://code.google.com/codejam/contest/7254486/dashboard"}})  
 
+<img src="/assets/images/kickstart_roundf_102.png">
+
 I've been busy since semester has started. I am taking 7 courses all related to my major and working on a new project called [lettertosoldier]({{"https://minjunkwak.github.io/blog/Letter-to-Soldier/"}}). Sometimes I wish I were a soldier.
 Anyways, Round F had 12 hour limit. Comparbly long time. Thanks to the extended time limit, I had a time to grab a couple of beer between the contest. One of my friend in the army came to see me.
 
