@@ -48,6 +48,8 @@ tags:
 
 6.이렇게 자동으로 편지가 보내집니다!
 
+주의사항: 편지가 보내지는 동안에 보내는 화면을 클릭하시면 자동으로 편지보내기가 취소가 됩니다
+
 # 텍스트 파일 보내는법
 
 <img src="/assets/lettertosoldier/lettertosoldier7.png">
