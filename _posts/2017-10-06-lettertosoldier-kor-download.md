@@ -6,7 +6,7 @@ categories: lettertosoldier
 comments: true
 author: MINJUN KWAK
 lang: Korean
-ref: lettertosoldier
+ref: lettertosoldierdownload
 tags:
   - lettertosoldier
 ---
