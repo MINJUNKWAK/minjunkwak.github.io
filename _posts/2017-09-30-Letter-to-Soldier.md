@@ -5,7 +5,7 @@ date: 2017-09-30
 categories: blog
 comments: true
 author: MINJUN KWAK
-lang: Korean
+lang: English
 ref: lettertosoldier
 tags:
   - lettertosoldier
