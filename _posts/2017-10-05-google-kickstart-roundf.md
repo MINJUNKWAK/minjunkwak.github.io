@@ -36,3 +36,5 @@ From that idea, I had no problem writting the whole code.
 
 Since I only missed Problem C and large case in Problem A, I placed 102th out of 488th. And placed 3rd in Republic of Korea.
 I could have done better with the third problem, I was so close to making a perfect score this time. Well, at least I'm getting better.
+
+※ It seems like there is something wrong with the score board. If my pealty is right, I should be placed somewhere around 120th. I'll update the post as soon as the scoreboard is back.
