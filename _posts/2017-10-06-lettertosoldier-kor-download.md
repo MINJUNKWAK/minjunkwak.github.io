@@ -38,7 +38,7 @@ tags:
 
 <img src="/assets/lettertosoldier/lettertosoldier4.png">
 
-4.휴대폰 인증창이 뜰때까지 브라우저 아무것도 클릭을 하시면 안됩니다!
+4.휴대폰 인증창이 뜰때까지 브라우저 아무것도 클릭을 하시면 안됩니다!(설치를 했는데도 다시 설치를 하라고 하면 ‘취소’를 누르고 진행해보세요)
 
 <img src="/assets/lettertosoldier/lettertosoldier5.png">
 
@@ -47,3 +47,18 @@ tags:
 <img src="/assets/lettertosoldier/lettertosoldier6.png">
 
 6.이렇게 자동으로 편지가 보내집니다!
+
+# 텍스트 파일 보내는법
+
+<img src="/assets/lettertosoldier/lettertosoldier7.png">
+
+1.같이 다운로드가 된 파일 중 text파일을 열어주시고
+
+<img src="/assets/lettertosoldier/lettertosoldier8.png">
+
+2.보내시고자 하는 내용을 채워주세요
+
+<img src="/assets/lettertosoldier/lettertosoldier9.png">
+
+3.보내기를 누르고 핸드폰 인증을 거치면 완성!
+
