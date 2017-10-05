@@ -11,7 +11,8 @@ tags:
   - lettertosoldier
 ---
 
-<a href="/MINJUNKWAK/minjunkwak.github.io/raw/master/_posts/lettertosoldier_ver1.zip" >Download</a>
+<a href="/MINJUNKWAK/minjunkwak.github.io/raw/master/_posts/lettertosoldier_ver1.zip" download>Download</a>
+
 <a href="lettertosoldier_ver1.zip" download>lettertosoldier 다운로드</a>
 
 논산 훈련소에 있는 훈련병에게 자동의 뉴스, 텍스트 파일, 대나무 숲 글을 보내주는 프로그램 lettertosoldier입니다. 
