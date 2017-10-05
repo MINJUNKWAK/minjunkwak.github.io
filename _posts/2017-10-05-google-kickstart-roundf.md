@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Google Kickstart 2017 Round F Overall Analysis"
-date: 2017-06-17
+date: 2017-10-05
 categories: algorithm
 comments: true
 author: MINJUN KWAK
