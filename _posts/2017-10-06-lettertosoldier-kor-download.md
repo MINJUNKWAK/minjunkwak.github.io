@@ -38,8 +38,7 @@ tags:
 
 <img src="/assets/lettertosoldier/lettertosoldier4.png">
 
-4.휴대폰 인증창이 뜰때까지 브라우저 아무것도 클릭을 하시면 안됩니다!(설치를 했는데도 다시 설치를 하라고 하면 ‘취소’를 누르고 진행해보세요)
-
+4.휴대폰 인증창이 뜰때까지 브라우저 아무것도 클릭을 하시면 안됩니다!(키보드 보안 설치를 했는데도 다시 설치를 하라고 하면 ‘취소’를 누르고 진행해보세요)
 <img src="/assets/lettertosoldier/lettertosoldier5.png">
 
 5.인증을 해주시면
