@@ -10,15 +10,8 @@ ref: lettertosoldierdown
 tags:
   - lettertosoldier
 ---
-<SCRIPT language="javaScript">
-  var count=0;
-  function button_onclick(){
-    count++;
-  alert(count+"회 다운로드되었습니다");
-  }
-</SCRIPT>
 
-# --><a href="/assets/lettertosoldier_ver1.zip" button_onclick()>lettertosoldier 다운로드</a><--
+# --><a href="/assets/lettertosoldier_ver1.zip">lettertosoldier 다운로드</a><--
 
 논산 훈련소에 있는 훈련병에게 자동의 뉴스, 텍스트 파일, 대나무 숲 글을 보내주는 프로그램 lettertosoldier입니다. 
 준비 되어야할 것:
