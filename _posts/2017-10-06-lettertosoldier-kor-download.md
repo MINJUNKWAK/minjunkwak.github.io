@@ -12,6 +12,7 @@ tags:
 ---
 
 # --><a href="/assets/lettertosoldier_ver1.zip">lettertosoldier 다운로드</a><--
+[최신 버젼 업데이트]({{"https://github.com/Hanuu/lettertosoldier/releases"}})
 
 논산 훈련소에 있는 훈련병에게 자동의 뉴스, 텍스트 파일, 대나무 숲 글을 보내주는 프로그램 lettertosoldier입니다. 
 준비 되어야할 것:
