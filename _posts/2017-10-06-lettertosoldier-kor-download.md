@@ -69,4 +69,4 @@ tags:
 논산 훈련소에서는 편지 한통한통이 정말 큰 힘이 됩니다. 훈련병들에게 편지 많이 보내주세요
 
 
-[개발 비하인드]({{"https://minjunkwak.github.io/%EB%B8%94%EB%A1%9C%EA%B7%B8/Letter-to-Soldier-kor/"}})
+[개발 비하인드]({{"https://minjunkwak.github.io/%EB%B8%94%EB%A1%9C%EA%B7%B8/Letter-to-Soldier-kor/"}})입니다.
