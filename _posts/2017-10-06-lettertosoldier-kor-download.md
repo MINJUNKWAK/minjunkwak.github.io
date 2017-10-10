@@ -41,6 +41,7 @@ tags:
 <img src="/assets/lettertosoldier/lettertosoldier4.png">
 
 4.휴대폰 인증창이 뜰때까지 브라우저 아무것도 클릭을 하시면 안됩니다!(키보드 보안 설치를 했는데도 다시 설치를 하라고 하면 ‘취소’를 누르고 진행해보세요)
+
 <img src="/assets/lettertosoldier/lettertosoldier5.png">
 
 5.인증을 해주시면
@@ -50,6 +51,7 @@ tags:
 6.이렇게 자동으로 편지가 보내집니다!
 
 주의사항: 편지가 보내지는 동안에 보내는 화면을 클릭하시면 자동으로 편지보내기가 취소가 됩니다
+
 
 # 텍스트 파일 보내는법
 
