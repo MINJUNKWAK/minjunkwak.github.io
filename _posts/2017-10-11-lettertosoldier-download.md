@@ -13,7 +13,7 @@ tags:
 
 # --><a href="/assets/lettertosoldier_v1.1.1.zip">Download lettertosoldier </a><--
 
-[Release]({{"https://github.com/Hanuu/lettertosoldier/releases"}})
+[Latest Release]({{"https://github.com/Hanuu/lettertosoldier/releases"}})
 
 This program is designed to send news, textfile, and facebook status from Bamboo Univ. to soldiers in KATC(Korean Army Training Center).
 
