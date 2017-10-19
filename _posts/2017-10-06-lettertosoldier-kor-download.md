@@ -75,7 +75,5 @@ tags:
 
 만든사람들:   
              * [곽민준]({{"https://github.com/Hanuu/"}})
-             
              * [강재영]({{"https://github.com/tycheyoung/"}})
-             
              * [이세령]({{"https://github.com/celinelee522/"}})
