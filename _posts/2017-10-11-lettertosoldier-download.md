@@ -72,3 +72,8 @@ To the trainee(soldiers) in the KATC, letters means a lot. If you know anyone at
 
 
 Click this to find out [why I made this program]({{"https://minjunkwak.github.io/blog/Letter-to-Soldier/"}}).
+
+Made by:   
+             * [MINJUN KWAK]({{"https://github.com/Hanuu/"}})
+             * [tycheyoung]({{"https://github.com/tycheyoung/"}})
+             * [Seryung Lee]({{"https://github.com/celinelee522/"}})
