@@ -74,6 +74,6 @@ tags:
 [개발 비하인드]({{"https://minjunkwak.github.io/%EB%B8%94%EB%A1%9C%EA%B7%B8/Letter-to-Soldier-kor/"}})를 읽으시려면 이 링크를 클릭해주세요.
 
 만든사람들:   
-             * [곽민준]({{"https://github.com/Hanuu/"}})
-             * [강재영]({{"https://github.com/tycheyoung/"}})
-             * [이세령]({{"https://github.com/celinelee522/"}})
+- [곽민준]({{"https://github.com/Hanuu/"}})
+- [강재영]({{"https://github.com/tycheyoung/"}})
+- [이세령]({{"https://github.com/celinelee522/"}})
