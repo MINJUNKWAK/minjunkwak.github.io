@@ -22,7 +22,7 @@ Before using the program, you should:
 1. Install Chrome Browser to your computer
 2. Download the lastest version of [lettertosoldier]({{"https://github.com/Hanuu/lettertosoldier/releases"}})
 
-# How to use it
+## How to use it
 
 
 <img src="/assets/lettertosoldier/lettertosoldier1.png">
@@ -54,7 +54,7 @@ And run the green letter icon in the middle.
 Caution: If you click something inside the browser while sending the letter, the whole procedure will be canceled.
 
 
-# How to send a text file
+## How to send a text file
 
 <img src="/assets/lettertosoldier/lettertosoldier7.png">
 
@@ -75,5 +75,7 @@ Click this to find out [why I made this program]({{"https://minjunkwak.github.io
 
 Made by:   
              - [MINJUN KWAK]({{"https://github.com/Hanuu/"}})
+             
              - [tycheyoung]({{"https://github.com/tycheyoung/"}})
+             
              - [Seryung Lee]({{"https://github.com/celinelee522/"}})
