@@ -68,7 +68,7 @@ Caution: If you click something inside the browser while sending the letter, the
 
 3. Press send and complete the 'Cell Phone Certification'! It will send the letters automatically.
 
-To the trainee(soldiers) in the KATC, letters means a lot. If you know anyone at KATC, please send them lots of letters.
+To the trainees(soldiers) in the KATC, letters means a lot. If you know anyone at KATC, please send them lots of letters.
 
 
 Click this to find out [why I made this program]({{"https://minjunkwak.github.io/blog/Letter-to-Soldier/"}}).
