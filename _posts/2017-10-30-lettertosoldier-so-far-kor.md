@@ -11,7 +11,7 @@ tags:
   - lettertosoldier
 ---
 
-[lettertosoldier]({{“https://minjunkwak.github.io/lettertosoldier/lettertosoldier-kor-download/”}})를 배포한지 어느덧 한달이 되어갑니다.
+[lettertosoldier]({{"https://minjunkwak.github.io/lettertosoldier/lettertosoldier-kor-download/"}})를 배포한지 어느덧 한달이 되어갑니다.
 
 그 동안 얼마나 많이 써왔고, 몇 장의 편지가 갔는지 한번 돌이켜보는 시간을 갖도록 하겠습니다.
 
@@ -23,7 +23,7 @@ tags:
 
 다음은 실사용자 수 입니다.
 
-[논산 훈련소 홈페이지]({{“http://www.katc.mil.kr/katc/corner/c25/letter.jsp?board_no=23&search%3Asearch_key%3Asearch=article_title&search%3Asearch_val%3Asearch=2017-10-“}})의 경우는 모든 편지를 검색할 수 있기 때문에 lettertosoldier에 제목에 들어가는 2017-10-날짜를 칠 경우 쉽게 사용자 파악이 가능합니다.
+[논산 훈련소 홈페이지]({{"http://www.katc.mil.kr/katc/corner/c25/letter.jsp?board_no=23&search%3Asearch_key%3Asearch=article_title&search%3Asearch_val%3Asearch=2017-10-"}})의 경우는 모든 편지를 검색할 수 있기 때문에 lettertosoldier에 제목에 들어가는 2017-10-날짜를 칠 경우 쉽게 사용자 파악이 가능합니다.
 <img src="/assets/lettertosoldier/23regiment.png">
 <img src="/assets/lettertosoldier/25regiment.png">
 <img src="/assets/lettertosoldier/26regiment.png">
