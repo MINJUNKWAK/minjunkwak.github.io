@@ -36,6 +36,7 @@ tags:
 <img src="/assets/lettertosoldier/lettertosoldier2-1.png">
  
 2.인적 사항을 넣은 후 보내기를 누르세요. (형식을 맞추지 않으면 에러가 납니다.)
+
 2.1 논산 훈련소의 경우는 사단에 0을 넣어주세요.
 
 <img src="/assets/lettertosoldier/lettertosoldier2.png">
