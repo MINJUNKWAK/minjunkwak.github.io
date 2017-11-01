@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "lettertosoldier 논산 훈련소 인터넷 편지 자동화 프로그램 다운로드"
+title: "lettertosoldier 논산 훈련소,  신병교육대 인터넷 편지 자동화 프로그램 다운로드"
 date: 2017-10-06
 categories: lettertosoldier
 comments: true
@@ -11,11 +11,14 @@ tags:
   - lettertosoldier
 ---
 
-# --><a href="/assets/lettertosoldier_v1.1.1.zip">lettertosoldier 다운로드</a><--
+# --><a href="/assets/lettertosoldier_v2.0.1.zip">lettertosoldier_v2.0.1 다운로드</a><--
 
 [최신 버젼 업데이트]({{"https://github.com/Hanuu/lettertosoldier/releases"}})
 
-논산 훈련소에 있는 훈련병에게 자동의 뉴스, 텍스트 파일, 대나무 숲 글을 보내주는 프로그램 lettertosoldier입니다. 
+논산 훈련소, 육군 신병교육대에 있는 훈련병에게 자동의 뉴스, 텍스트 파일, 대나무 숲 글을 보내주는 프로그램 lettertosoldier입니다. 
+버전 v2.0.1기준으로 육군 신병교육대도 자동으로 편지를 보낼 수 있게 됬습니다!
+
+
 준비 되어야할 것:
 
 1.	크롬 브라우저
@@ -33,6 +36,11 @@ tags:
 <img src="/assets/lettertosoldier/lettertosoldier2.png">
  
 2.인적 사항을 넣은 후 보내기를 누르세요. (형식을 맞추지 않으면 에러가 납니다.)
+2.1 논산 훈련소의 경우는 사단에 0을 넣어주세요.
+
+<img src="/assets/lettertosoldier/lettertosoldier2-1.png">
+
+2.2 육군 신병 교육대의 경우는 사단에 해당 사단 번호을 넣어주세요.(1사단의 경우는 1)
  
 <img src="/assets/lettertosoldier/lettertosoldier3.png">
 
