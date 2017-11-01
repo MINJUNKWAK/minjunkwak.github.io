@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Download lettertosoldier, Automatic program that sends letters to soldiers in KATC"
+title: "Download lettertosoldier, Automatic program that sends letters to soldiers in Republic of Korea Army"
 date: 2017-10-06
 categories: lettertosoldier
 comments: true
@@ -11,11 +11,12 @@ tags:
   - lettertosoldier
 ---
 
-# --><a href="/assets/lettertosoldier_v1.1.1.zip">Download lettertosoldier </a><--
+# --><a href="/assets/lettertosoldier_v1.1.1.zip">Download lettertosoldier_v2.0.1 </a><--
 
 [Latest Release]({{"https://github.com/Hanuu/lettertosoldier/releases"}})
 
 This program is designed to send news, textfile, and facebook status from Bamboo Univ. to soldiers in KATC(Korean Army Training Center).
+Starting from v2.0.1 we can send letters to any training centers in ROK Army.
 
 Before using the program, you should:
 
@@ -31,10 +32,16 @@ Before using the program, you should:
 
 And run the green letter icon in the middle.
 
-<img src="/assets/lettertosoldier/lettertosoldier2.png">
+<img src="/assets/lettertosoldier/lettertosoldier2-1.png">
  
 2. After filling in the receiver(soldier)'s information in the blank, click send.(If format isn't right, it won't be sending the letters)
+
+2.1 For Nonsan KATC, write 0 for division.
  
+<img src="/assets/lettertosoldier/lettertosoldier2.png">
+
+2.2 For other training centers in the Army, write the designated division.
+
 <img src="/assets/lettertosoldier/lettertosoldier3.png">
 
 3. Authorize the access.
@@ -68,7 +75,7 @@ Caution: If you click something inside the browser while sending the letter, the
 
 3. Press send and complete the 'Cell Phone Certification'! It will send the letters automatically.
 
-To the trainees(soldiers) in the KATC, letters means a lot. If you know anyone at KATC, please send them lots of letters.
+To the trainees(soldiers), letters means a lot. If you know anyone at the basic training center, please send them lots of letters.
 
 
 Click this to find out [why I made this program]({{"https://minjunkwak.github.io/blog/Letter-to-Soldier/"}}).
