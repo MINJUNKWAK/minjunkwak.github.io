@@ -33,12 +33,12 @@ tags:
 
 그 후 가운데 있는 초록색 편지 아이콘의 파일을 실행 시켜 주세요
 
-<img src="/assets/lettertosoldier/lettertosoldier2.png">
+<img src="/assets/lettertosoldier/lettertosoldier2-1.png">
  
 2.인적 사항을 넣은 후 보내기를 누르세요. (형식을 맞추지 않으면 에러가 납니다.)
 2.1 논산 훈련소의 경우는 사단에 0을 넣어주세요.
 
-<img src="/assets/lettertosoldier/lettertosoldier2-1.png">
+<img src="/assets/lettertosoldier/lettertosoldier2.png">
 
 2.2 육군 신병 교육대의 경우는 사단에 해당 사단 번호을 넣어주세요.(1사단의 경우는 1)
  
