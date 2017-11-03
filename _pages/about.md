@@ -23,6 +23,6 @@ ref: about
 
 
 ##Resume
-- <a href="/assets/Resume_English_MINJUN.KWAK_2017_LAC.docx">Download English version of my resume.</a
+- <a href="/assets/Resume_English_MINJUN.KWAK_2017_LAC.docx">Download English version of my resume.</a>
 ---
 
