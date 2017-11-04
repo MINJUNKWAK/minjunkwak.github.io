@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Project"
+title: "Projects"
 author: MINJUN KWAK
 author-profile: true
 lang: English
