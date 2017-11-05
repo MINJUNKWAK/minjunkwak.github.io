@@ -21,7 +21,7 @@ ref: about
 - 알고리즘 문제해결
 - 여행
 
-##Resume
+## Resume
 - <a href="/assets/Resume_English_MINJUN.KWAK_2017_LAC.docx">Download English version of my resume.</a>
 ---
 
