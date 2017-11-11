@@ -11,7 +11,7 @@ tags:
   - lettertosoldier
 ---
 
-# --><a href="/assets/lettertosoldier_v2.0.2.zip">Download lettertosoldier_v2.0.2 </a><--
+# --><a href="/assets/lettertosoldier_v2.0.3.zip">Download lettertosoldier_v2.0.3 </a><--
 
 [Latest Release]({{"https://github.com/Hanuu/lettertosoldier/releases"}})
 
