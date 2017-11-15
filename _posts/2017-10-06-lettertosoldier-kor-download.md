@@ -80,6 +80,7 @@ tags:
 훈련소에서는 편지 한통한통이 정말 큰 힘이 됩니다. 훈련병들에게 편지 많이 보내주세요
 
 [사용자 수]({{"https://minjunkwak.github.io/lettertosoldier/lettertosoldier-so-far/"}})가 궁금하면 다음 링크를 클릭세요.
+
 [개발 비하인드]({{"https://minjunkwak.github.io/%EB%B8%94%EB%A1%9C%EA%B7%B8/Letter-to-Soldier-kor/"}})를 읽으시려면 이 링크를 클릭해주세요.
 
 만든사람들:
