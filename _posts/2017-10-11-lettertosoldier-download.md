@@ -78,6 +78,7 @@ Caution: If you click something inside the browser while sending the letter, the
 To the trainees(soldiers), letters means a lot. If you know anyone at the basic training center, please send them lots of letters.
 
 
+Click this to find out [how many people are using this]({{"https://minjunkwak.github.io/lettertosoldier/lettertosoldier-so-far/"}}).
 Click this to find out [why I made this program]({{"https://minjunkwak.github.io/blog/Letter-to-Soldier/"}}).
 
 Made by:   
