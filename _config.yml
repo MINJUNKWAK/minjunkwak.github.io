@@ -10,7 +10,7 @@
 title                    : "KWAK's blog"
 title_separator          : "-"
 name                     : "MINJUN KWAK"
-description              : "An amazing website."
+description              : "A blog ran by a young developer"
 url                      : "https://minjunkwak.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "hanuu/MINJUNKWAK"
