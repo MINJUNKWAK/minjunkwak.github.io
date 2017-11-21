@@ -48,8 +48,8 @@ Which sums up to be total of 4230 letters during October alone.
 Average daily amount would be 140 letters.
 
 Total page view: 1976
-Total number of letters: 4230통
-Average daily letters: 140통
+Total number of letters: 4230
+Average daily letters: 140
 
 Which isn't too bad.
 After the first deployemnt, we went straight to the midterm. We didn't have time to add new feature and catch some bugs.
