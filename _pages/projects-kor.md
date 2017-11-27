@@ -14,6 +14,6 @@ ref: projects
 - 하루 평균 150통정도가 보내지고 있음[(논산 전체 편지의10%)]({{"https://minjunkwak.github.io/lettertosoldier/lettertosoldier-so-far-kor/"}})
 - 무료배포
 - [비하인드]({{"https://minjunkwak.github.io/%EB%B8%94%EB%A1%9C%EA%B7%B8/Letter-to-Soldier-kor/"}})
-
+- 고려대학교 전기전자공학부 50주년 전시회 [인기상 수상]({{"http://ee.korea.ac.kr/ee/board/UnderNotice.do?mode=view&articleNo=87963&article.offset=10&articleLimit=10&totalNoticeYn=N&totalBoardNo="}}), 전시회중 가장 많은 표를 받음
 ---
 
