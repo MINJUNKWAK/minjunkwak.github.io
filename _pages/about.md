@@ -14,6 +14,7 @@ ref: about
 - Former [TEDxKoreaUniversity](https://www.ted.com/tedx/events?autocomplete_filter=TEDxKoreaUniversity&when=past) Organizer.
 - Former Project manager in Samsung SDS sGen Club.
 - Team leader of [lettertosoldier](https://minjunkwak.github.io/lettertosoldier/lettertosoldier-download/), a program designed to automatically send letters to soldiers in basic training center.
+- Developer, Analyst in [Picasso](https://www.startupstation.kr/?teams=picasso), ML based algorithm trading startup.
 - Very fluent in English and Korean
 
 ## Interested in:
