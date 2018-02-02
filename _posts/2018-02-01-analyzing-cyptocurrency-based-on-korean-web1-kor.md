@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "analyzing cryptocurrency based on korean web"
-date: 2017-10-31
-categories: lettertosoldier
+title: "암호화폐와 한국의 인터넷 여론1"
+date: 2018-02-01
+categories: cryptocurrency
 comments: true
 author: MINJUN KWAK
 lang: Korean
@@ -58,6 +58,10 @@ tags:
 이런 시장, 사람들이 가격을 형성하고 가격이 여론을 형성하며, 다시 여론이 가격을 형성하는 시장에서 여론을 분석하므로써 가격을 예측할수 있을까? 라는 물음에서 시작을 하여 
 
 암호화폐의 가격을 텍스트 마이닝을 통하여 분석, 더 나아가 예측을 할 수 있을까?라는 생각을 해보게 되었다.
+
+한국시장이 다른 나라들과 비교해서 프리미엄이 잡혀있다는 현상을 포함해서
+
+한국의 암호화폐 시장과 한국의 여론의 관계를 찾을 수 있을까?
 
 [비트코인과 구글트렌드, 위키피디아의 상관관계]({{"https://www.nature.com/articles/srep03415"}})를 다룬 사례도 있고
 
