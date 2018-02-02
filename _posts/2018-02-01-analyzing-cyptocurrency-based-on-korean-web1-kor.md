@@ -75,5 +75,7 @@ tags:
 우선 국내에서 가장 많은 글 리젠률과 조회수를 보유한 [디씨 인사이드 비트코인 갤러리]({{"http://gall.dcinside.com/board/lists/?id=bitcoins"}})의 데이터를 통하여 분석을 시도해 보자
 
 
-
 <img src="/assets/images/koreancypto/gauza3.png">
+
+
+[다음글에서 계속..]({{"https://minjunkwak.github.io/cryptocurrency/analyzing-cyptocurrency-based-on-korean-web2-kor/"}})
