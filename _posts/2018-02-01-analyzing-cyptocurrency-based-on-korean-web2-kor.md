@@ -19,7 +19,7 @@ tags:
 ---
 
 # 해외시장, 논문다시 읽기
-일단 앞서 [전 게시글]({{"https://minjunkwak.github.io/lettertosoldier/analyzing-cyptocurrency-based-on-korean-web-kor/"}})에서 이야기한 [논문]({{"https://www.nature.com/articles/srep03415"}})을 참고하여 비교할 만한 지표를 만들어내자.
+일단 앞서 [전 게시글]({{"https://minjunkwak.github.io/lettertosoldier/analyzing-cyptocurrency-based-on-korean-web1-kor/"}})에서 이야기한 [논문]({{"https://www.nature.com/articles/srep03415"}})을 참고하여 비교할 만한 지표를 만들어내자.
 
 <img src="/assets/images/koreancypto/googletrendvsbtc.png">
 
