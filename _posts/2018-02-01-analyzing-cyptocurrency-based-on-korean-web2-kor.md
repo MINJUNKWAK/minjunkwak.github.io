@@ -94,8 +94,9 @@ log스케일의 correlation이 0.8786으로 나타났다.
 | Correlation with log | 0.8786 | 0.556100 | 0.902580 |
 
 
+이렇게 된다.
 
-
+[다음글]({{"https://minjunkwak.github.io/cryptocurrency/analyzing-cyptocurrency-based-on-korean-web3-kor/"}})에서는 비트코인 갤러리에 특정 단어의 언급횟수와 가격의 상관관계를 다룰 예정이다.
 
 
 
