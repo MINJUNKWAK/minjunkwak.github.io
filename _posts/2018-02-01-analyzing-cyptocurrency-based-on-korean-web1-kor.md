@@ -67,4 +67,13 @@ tags:
 
 [게시판의 여론을 딥러닝을 통해여 비트코인 가격을 예측]({{"http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177630"}})한 사례도 존재하기 비교적 쉽게 수행 할 수 있을거라 생각을 했다.
 
+또한, 한국시장은 특유의 "프리미엄"이 존재하기 때문에 해외 시장과 나눠서 연구해 볼 필요가 있다고 생각을 한다.
+
+<img src="/assets/images/koreancypto/koreanpremium.png">
+
+
 우선 국내에서 가장 많은 글 리젠률과 조회수를 보유한 [디씨 인사이드 비트코인 갤러리]({{"http://gall.dcinside.com/board/lists/?id=bitcoins"}})의 데이터를 통하여 분석을 시도해 보자
+
+
+
+<img src="/assets/images/koreancypto/gauza3.png">
