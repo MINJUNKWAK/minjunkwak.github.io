@@ -65,27 +65,22 @@ and market reacted.
 
 In market where people determine price and price determines the public opinions. Can we predict the price by analyzing the public opinion?
 
-이런 시장, 사람들이 가격을 형성하고 가격이 여론을 형성하며, 다시 여론이 가격을 형성하는 시장에서 여론을 분석하므로써 가격을 예측할수 있을까? 라는 물음에서 시작을 하여 
+Or something evern easier than that, can the public opinion on web be analyzed by textmining?
 
-암호화폐의 가격을 텍스트 마이닝을 통하여 분석, 더 나아가 예측을 할 수 있을까?라는 생각을 해보게 되었다.
+Can the Korean market be explained by the public opinion on web?
 
-한국시장이 다른 나라들과 비교해서 프리미엄이 잡혀있다는 현상을 포함해서
+[The relationship between google trend, wikipedia and price of bitcoin]({{"https://www.nature.com/articles/srep03415"}}) was covered in the past.
 
-한국의 암호화폐 시장과 한국의 여론의 관계를 찾을 수 있을까?
+[Predicting the price of bitcoin based on the public opinion on certain website based on deep learning]({{"http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177630"}})was also done in the past.
 
-[비트코인과 구글트렌드, 위키피디아의 상관관계]({{"https://www.nature.com/articles/srep03415"}})를 다룬 사례도 있고
-
-[게시판의 여론을 딥러닝을 통해여 비트코인 가격을 예측]({{"http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177630"}})한 사례도 존재하기 비교적 쉽게 수행 할 수 있을거라 생각을 했다.
-
-또한, 한국시장은 특유의 "프리미엄"이 존재하기 때문에 해외 시장과 나눠서 연구해 볼 필요가 있다고 생각을 한다.
+And especially, I thought the uniqueness of Korean market due to the "Premium price" made this question worth asking.
 
 <img src="/assets/images/koreancypto/koreanpremium.png">
 
 
-우선 국내에서 가장 많은 글 리젠률과 조회수를 보유한 [디씨 인사이드 비트코인 갤러리]({{"http://gall.dcinside.com/board/lists/?id=bitcoins"}})의 데이터를 통하여 분석을 시도해 보자
-
+I will make [Dc Inside Bitcoin Gallery]({{"http://gall.dcinside.com/board/lists/?id=bitcoins"}}) as primary public factor. Dc Inside Bitcoin Gallery has the most hit and most views among all the websites in Korea that covers crypto currency. Think of it as reddit in United States.
 
 <img src="/assets/images/koreancypto/gauza3.png">
 
 
-[다음글에서 계속..]({{"https://minjunkwak.github.io/cryptocurrency/analyzing-cyptocurrency-based-on-korean-web2-kor/"}})
+[To be continued..]({{"https://minjunkwak.github.io/cryptocurrency/analyzing-cyptocurrency-based-on-korean-web2-kor/"}})
