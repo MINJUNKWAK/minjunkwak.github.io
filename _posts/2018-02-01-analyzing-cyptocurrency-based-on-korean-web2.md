@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "암호화폐와 한국 인터넷 여론2"
+title: "Crypto Currency and Korean Web2"
 date: 2018-02-01
 categories: cryptocurrency
 comments: true
