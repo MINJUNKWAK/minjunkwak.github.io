@@ -25,5 +25,6 @@ ref: projects
 - A small gyro sensor is attached to each item and communicates with the server
 - If individual is missing something, server sends notification to mobile device
 - Won [Qualcomm Innovation Award]({{"http://news.mt.co.kr/mtview.php?no=2018032309331383763"}}) with 5,000,000 KRW price
+- [Interview with Department of Engineering]({{"http://eng.korea.ac.kr/eng/community/review.do?mode=view&articleNo=97940&article.offset=0&articleLimit=10"}})
 ---
 

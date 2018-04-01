@@ -25,5 +25,6 @@ ref: projects
 - 각 물품에는 소형화된 중력, 가속도 센서가 부착이 되어서 소지여부를 확인
 - 소지가 되어있지 않다고 판단이 되면 핸드폰으로 알림이 감
 - [Qualcomm Innovation Award]({{"http://news.mt.co.kr/mtview.php?no=2018032309331383763"}}) 수상작, 5백만원 장학금
+- [공과대학교와의 인터뷰]({{"http://eng.korea.ac.kr/eng/community/review.do?mode=view&articleNo=97940&article.offset=0&articleLimit=10"}})
 ---
 
