@@ -26,3 +26,4 @@ ref: about
 - <a href="/assets/Resume_English_MINJUN.KWAK_2018_April_12.docx">Download English version of my resume.</a>
 ---
 
+it
