@@ -11,15 +11,13 @@ tags:
   - lettertosoldier
 ---
 
-# --><a href="/assets/lettertosoldier_v2.0.3.zip">lettertosoldier_v2.0.3 다운로드</a><--
+# --><a href="/assets/lettertosoldier_v2.1.1.zip">lettertosoldier_v2.1.1 다운로드</a><--
 
 [최신 버전 업데이트]({{"https://github.com/Hanuu/lettertosoldier/releases"}})
 
 논산 훈련소, 육군 신병교육대에 있는 훈련병에게 자동의 뉴스, 텍스트 파일, 대나무 숲 글을 보내주는 프로그램 lettertosoldier입니다. 
 버전 v2.0.1기준으로 육군 신병교육대도 자동으로 편지를 보낼 수 있게 됬습니다!
 
-지금 현재 육군 훈련소 웹사이트 개편으로 인하여 프로그램이 작동되고 있지 않습니다.
-조속히 해결하도록 하겠습니다 (2018-02-24 곽민준)
 
 
 준비 되어야할 것:
