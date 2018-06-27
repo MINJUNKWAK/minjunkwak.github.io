@@ -71,7 +71,7 @@ However, a comment from a stranger gave me strength to continue.
 
 <img src="/assets/images/goodservice/comment.png">
 (I am having same error message from the guys below..
-When are you planning to fix this issue? I am so sorry to bother you because This is a free distribution and I am not at the position to demand anything. It is just that I enlist next week, and this really is a useful program... Thank you)
+When are you planning to fix this issue? I am so sorry to bother you because This is a free distribution and I am not at the position to demand anything. It is just that I join next week, and this really is a useful program... Thank you)
 
 There are people who become happy by using this program. And unfairness of ROKATC could be solved. I guess that is the motivation behind why I should contine deploying this project.
 
