@@ -8,6 +8,7 @@ ref: about
 
 ## 저는..
 
+- 구글에서 소프트웨어 엔지니어 인턴으로 일을 하고있고
 - 고려대학교 전기전자공학부에 재학중이고
 - 카투사 병장으로써 국방의 의무를 마쳤고
 - [TEDxKoreaUniversity](https://www.ted.com/tedx/events?autocomplete_filter=TEDxKoreaUniversity&when=past) 오거나이저로 활동을 했었으며

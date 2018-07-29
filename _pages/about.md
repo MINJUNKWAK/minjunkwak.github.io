@@ -9,6 +9,7 @@ ref: about
 
 ## I am..
 
+- Software Engineering Intern in Google.
 - Majoring in electronics & electrical engineering in Korea University.
 - A former sergeant in U.S army as a KATUSA(Korean Augmentation to the United States Army).
 - Former [TEDxKoreaUniversity](https://www.ted.com/tedx/events?autocomplete_filter=TEDxKoreaUniversity&when=past) Organizer.
@@ -24,6 +25,6 @@ ref: about
 
 
 ## Resume
-- <a href="/assets/Resume_English_MINJUN.KWAK_2018_April_12.docx">Download English version of my resume.</a>
+- <a href="/assets/Resume_English_MINJUN.KWAK_2018_Jul_22.pdf">Download English version of my resume.</a>
 ---
 
