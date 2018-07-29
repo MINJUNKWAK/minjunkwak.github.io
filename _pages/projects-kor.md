@@ -27,4 +27,3 @@ ref: projects
 - [Qualcomm Innovation Award]({{"http://news.mt.co.kr/mtview.php?no=2018032309331383763"}}) 수상작, 5백만원 장학금
 - [공과대학교와의 인터뷰]({{"http://eng.korea.ac.kr/eng/community/review.do?mode=view&articleNo=97940&article.offset=0&articleLimit=10"}})
 ---
-
