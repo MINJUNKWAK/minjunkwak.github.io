@@ -8,8 +8,8 @@ ref: about
 
 ## 저는..
 
-- 구글에서 소프트웨어 엔지니어 인턴으로 일을 하고있고
-- 고려대학교 전기전자공학부에 재학중이고
+- 구글에서 소프트웨어 엔지니어 인턴이였고
+- 고려대학교 전기전자공학부를 졸업했으며
 - 카투사 병장으로써 국방의 의무를 마쳤고
 - [TEDxKoreaUniversity](https://www.ted.com/tedx/events?autocomplete_filter=TEDxKoreaUniversity&when=past) 오거나이저로 활동을 했었으며
 - Samsung SDS sGen Club에서 프로젝트 매니저로 활동을 했습니다.
@@ -24,5 +24,5 @@ ref: about
 - 여행
 
 ## Resume
-- <a href="/assets/Resume_English_MINJUN.KWAK_2018_April_12.docx">Download English version of my resume.</a>
+- <a href="/assets/Resume_English_MINJUN_KWAK_2019_August_21.pdf">Download English version of my resume.</a>
 ---
